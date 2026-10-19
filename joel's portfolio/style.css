@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fb;
+  color: #202938;
+}
+
+.hero {
+  background: linear-gradient(135deg, #12345a, #247ba0);
+  color: white;
+  padding-top: 90px !important;
+  padding-bottom: 90px !important;
+}
+
+.card {
+  border: none;
+  border-radius: 14px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+.card h3 {
+  color: #12345a;
+}
+
+footer {
+  margin-top: 20px;
+}
